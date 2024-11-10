@@ -1,0 +1,21 @@
+body{
+    background-color: #DBEFBC;
+}
+
+#title{
+    text-align: center;
+
+}
+
+li{
+    list-style-type: none;
+}
+
+table{
+    width: 1rem;
+    border: 1px solid black;
+}
+
+#response .check td input:checked{
+    background-color: red;
+}
