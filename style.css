@@ -11,11 +11,13 @@ li{
     list-style-type: none;
 }
 
-table{
-    width: 1rem;
-    border: 1px solid black;
+table, td{
+    width: 2rem;
+    border: 1px solid #9BC4CB;
+    column-width: auto; 
 }
 
-#response .check td input:checked{
+
+#response .check input:checked{
     background-color: red;
 }
